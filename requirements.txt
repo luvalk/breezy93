@@ -1,0 +1,6 @@
+pandas
+nltk
+spacy
+pdfminer.six
+docx2txt
+scikit-learn
